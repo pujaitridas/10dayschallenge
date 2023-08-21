@@ -16,7 +16,7 @@ Welcome to IVY's SQL Internship (July 2023) : 10-Days Challenge repository! This
 
 ## Introduction
 
-This repository hosts the SQL Internship: 10-Days Challenge, which offers participants the opportunity to practice their SQL skills through a series of progressively challenging tasks. This challenge is designed to refine your understanding of SQL concepts and best practices.
+This repository hosts the SQL Internship: 10-Days Challenge, which offers participants the opportunity to practice their SQL skills through a series of progressively challenging tasks. This challenge is designed to refine one's understanding of SQL concepts and best practices.
 
 ## Challenges
 
