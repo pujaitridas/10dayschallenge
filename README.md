@@ -9,6 +9,10 @@ Welcome to IVY's SQL Internship (July 2023) : 10-Days Challenge repository! This
 - [Introduction](#introduction)
 - [Challenges](#challenges)
 - [SQL Concepts Covered](#sql-concepts-covered)
+- [Database: MySQL](#database-mysql)
+- [Getting Started](#getting-started)
+- [Thank You](#thank-you)
+
 
 ## Introduction
 
