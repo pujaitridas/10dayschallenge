@@ -47,7 +47,7 @@ If you don't have MySQL installed, you can download it from the official [MySQL 
 
 2. **Read the Problem:** Open the problem statement SQL file and read the question carefully.
 
-3. **Explore Solutions:** After reading the challenge, you can check the respective day's directory (e.g., `#Challenge01`) to explore the answers.
+3. **Explore Solutions:** After reading the challenge, you can check the respective day's directory (e.g., `#Challenge01`) to explore the answers along with the respective datasets.
 
 ## Thank You
 
